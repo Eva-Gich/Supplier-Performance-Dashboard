@@ -1,7 +1,7 @@
 # Supplier-Performance-Dashboard
 An interactive Excel dashboard designed to evaluate supplier performance, identify operational risk, and support supplier relationship management decisions in a manufacturing environment.
 ## Dashboard Preview
-![Supplier Relationship Management Dashboard] (Supplier Dashboard Preview.png)
+![Supplier Relationship Management Dashboard](Supplier%20Dashboard%20Preview.png)
 ## Business Problem
 Manufacturing organizations depend on suppliers to deliver the right material, in the right quantities, at the right time, and at the required quantity level.
 When supplier performance is evaluated across separate reports, procurement teams can struggle to quickly identify which suppliers require attention and where operational risk is concentrated.
